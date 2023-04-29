@@ -1,6 +1,6 @@
  # Hey! Nice to see you.
 
-<h2 align="center">Hi, I'm Shivan Kumar </h2>
+<h2 align="center">Hi, I'm Sumeet Maheshwari </h2>
 
 ## **ABOUT ME**
 
