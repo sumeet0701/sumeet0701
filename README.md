@@ -4,7 +4,7 @@
 
 ## **ABOUT ME**
 
-- 🏫 My Academic I have Pursing  my graduation in Electroinc and Communication Engineering(ECE)  with 8 CGPA.
+- 🏫 My Academic I am Pursing  my graduation in Electroinc and Communication Engineering(ECE)  with 8 CGPA.
 
 - 🔭 I’m currently working as **Data Scientist Intern** 
 
