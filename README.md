@@ -4,15 +4,17 @@
 
 ## **ABOUT ME**
 
-- 🏫 My Academic I am Pursing  my graduation in Electroinc and Communication Engineering(ECE)  with 8 CGPA.
+- 🏫 My Academic I am Pursuing  my graduation in Electronic and Communication Engineering(ECE)  with 8 CGPA.
 
 - 🔭 I’m currently working as **Data Scientist Intern** 
 
-- 🌱 I’m currently working on **Machine Learnring, Data Analysis, MLOps Tools (MLFLOW, DVC), PyTorch.**
+- 🌱 I’m currently working on **Machine Learning, Data Analysis, MLOps Tools (MLFLOW, DVC), PyTorch.**
 
 - 💻 Check my Projects and other Repos [HERE.](https://github.com/sumeet0701)
 
-- 👨‍💻 Completed **Ineruron Full Stack Data Science Courese.** 
+- 👨‍💻 Completed **Ineruron Full Stack Data Science Course.**
+
+  [![sumeet0701's GitHub | Stats](https://stats.quine.sh/sumeet0701/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sumeet0701)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sumeet0701&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
