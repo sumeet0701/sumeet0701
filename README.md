@@ -43,7 +43,7 @@
     <a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/> </a>
 </p>
 <br/>
-
+[![sumeet0701's GitHub | Topics](https://stats.quine.sh/sumeet0701/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sumeet0701)
 ## **STREAK STATS**
 <p align = 'center'>
     <img src='https://github-readme-streak-stats.herokuapp.com?user=sumeet0701&theme=dark&hide_border=true'>
