@@ -6,9 +6,9 @@
 
 - 🏫 My Academic I am Pursuing  my graduation in Electronic and Communication Engineering(ECE)  with 8 CGPA.
 
-- 🔭 I’m currently working as **Machine Learning Intern at ROOTLE.AI** 
+- 🔭 I’m currently working as **AI Engineer at aQtor Technologies** 
 
-- 🌱 I’m currently working on **Machine Learning, Data Analysis, MLOps Tools (MLFLOW, DVC), PyTorch, LLM, Hugging face and Langchain for Finetuning the LLM's.**
+- 🌱 I’m currently working on **Machine Learning, Data Analysis, MLOps Tools (MLFLOW, DVC), PyTorch, LLM, Hugging face and Langchain for Finetuning the LLM's & SLMs.**
 
 - 💻 Check my Projects and other Repos [HERE.](https://github.com/sumeet0701)
 
