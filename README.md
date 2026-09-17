@@ -13,7 +13,7 @@ Building AI-powered products, Financial Intelligence Systems, Agentic Workflows,
 ## 🚀 About Me
 
 - 💼 AI Engineer at **AtQor Technologies**
-- 🤖 2+ years of experience in AI, Machine Learning, Generative AI, and MLOps
+- 🤖 2.5+ years of experience in AI, Machine Learning, Generative AI, and MLOps
 - 🏦 Specialized in Financial AI, Credit Risk Analytics, Fraud Detection, Portfolio Analytics, and AI-powered Decision Systems
 - 🧠 Working extensively on:
   - LLMs & SLMs
