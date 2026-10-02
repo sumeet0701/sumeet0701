@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumeet Maheshwari</h1>
 
 <h3 align="center">
-AI Engineer | Generative AI Engineer | Financial AI Enthusiast | CFA Level I Candidate
+AI Engineer | Generative AI Engineer | Financial AI Enthusiast | CFA Level I Cleared
 </h3>
 
 <p align="center">
@@ -23,7 +23,7 @@ Building AI-powered products, Financial Intelligence Systems, Agentic Workflows,
   - Fine-Tuning (LoRA, QLoRA, PEFT)
   - AI Agents & Tool Calling
 - ☁️ Azure AI | AWS Bedrock | Azure AI Search | Azure Document Intelligence
-- 📈 CFA Level I Candidate
+- 📈 CFA Level I Cleared
 - 🎓 B.E. Electronics & Communication Engineering
 - 🌍 Based in Ahmedabad, Gujarat, India
 
@@ -56,7 +56,7 @@ Building AI-powered products, Financial Intelligence Systems, Agentic Workflows,
 
 ### Finance Certifications
 
-📈 CFA Level I Candidate
+📈 <br> CFA Level I Cleared </br>
 
 ### Additional Certifications
 
